@@ -42,7 +42,7 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 ![Kernel][image2]
 
-### 1. Download the Unity ML Environment
+### 2. Download the Unity ML Environment
 
 Choose your operating system:
 
@@ -52,3 +52,7 @@ Choose your operating system:
  - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
 
 Then, place the file in the src/ folder, and unzip (or decompress) the file.
+
+### 3. Run the code yourself
+
+After running the previous setup steps, you should be able to just open the notebook(Navigation.ipynb) and run the cells yourself.
