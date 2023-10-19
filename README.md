@@ -6,7 +6,7 @@ Solution for the first project in Udacity's Reinforcement Learning Course
 
 # Setup
 
-### 1.Dependencies
+### 1. Dependencies
 
 To set up your python environment to run the code in this repository, follow the instructions below.
 
@@ -42,13 +42,17 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 ![Kernel][image2]
 
-### 1. Download the Unity ML Environment
+### 2. Download the Unity ML Environment
 
-Click on your operating system:
+Choose your operating system:
 
-Linux: click here
-Mac OSX: click here
-Windows (32-bit): click here
-Windows (64-bit): click here
+ - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
+ - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
+ - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
+ - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
 
-Then, place the file in the p1_navigation/ folder in the course GitHub repository, and unzip (or decompress) the file.
+Then, place the file in the src/ folder, and unzip (or decompress) the file.
+
+### 3. Run the code yourself
+
+After running the previous setup steps, you should be able to just open the notebook(Navigation.ipynb) and run the cells yourself.
