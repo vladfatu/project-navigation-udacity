@@ -1,7 +1,10 @@
 [image2]: https://user-images.githubusercontent.com/10624937/42386929-76f671f0-8106-11e8-9376-f17da2ae852e.png "Kernel"
+[banana]: https://github.com/vladfatu/project-navigation-udacity/assets/1000350/4586996f-5a1e-40b6-b8c6-a8b4793ea052
 
 # project-navigation-udacity
 Solution for the first project in Udacity's Reinforcement Learning Course
+
+![banana]
 
 
 # Setup
