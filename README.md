@@ -6,7 +6,7 @@ Solution for the first project in Udacity's [Deep Reinforcement Learning Nanodeg
 
 ### Introduction
 
-In this project I have traind an agent to navigate (and collect bananas!) in a large, square world. 
+In this project I have trained an agent to navigate (and collect bananas!) in a large, square world. 
 
 ![Trained Agent][banana] 
 
