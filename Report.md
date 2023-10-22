@@ -4,6 +4,9 @@
 
 dqn with experience replay
 
+The input to the network has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around the agent's forward direction. This is followed by 2 hidden Linear Layers of size 64 activated by a RELU activation function. The output has a size of 4, the number of possible actions.
+
+
 hyperparameters:
 
 GAMMA = 0.99            # discount factor
